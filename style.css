@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(210, 63, 255);
+}
+
+img{
+    text-align: center;
+    width: 123px;
+    height: 100px;
+}
+
+video{
+    width: 500px;
+}
+
+#entete-de-page{
+    text-align: center;
+}
+
+#video{
+    text-decoration: underline;
+}
+
+body{
+    background-color:aqua;
+}
+
+img{
+    text-align: center;
+    width: 123px;
+    height: 100px;
+}
+
+video{
+    width: 500px;
+}
+
+#entete-de-page{
+    text-align: center;
+}
+
+#video{
+    text-decoration: underline;
+}
